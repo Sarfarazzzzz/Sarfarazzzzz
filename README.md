@@ -1,6 +1,6 @@
 # 💻 Mohammed Ismail Sarfaraz Shaik  
 
-📍 Washington, D.C. | ✉️ m.shaik@gwu.edu | 🌐 [Portfolio](#) | 🔗 [LinkedIn](#) | 🖥️ [GitHub](#)  
+📍 Washington, D.C. | ✉️ m.shaik@gwu.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/)(#) | 🖥️ [GitHub](#)  
 
 ---
 
@@ -37,8 +37,7 @@ With hands-on experience as a **Software Engineer & Data Analyst at TCS**, I've 
 
 📧 Email: [m.shaik@gwu.edu](mailto:m.shaik@gwu.edu)  
 🔗 LinkedIn: [https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/](#)  
-💻 GitHub: [github.com/yourusername](#)  
-🌍 Portfolio: [yourwebsite.com](#)  
+💻 GitHub: [https://github.com/Sarfarazzzzz](#)   
 
 ---
 
