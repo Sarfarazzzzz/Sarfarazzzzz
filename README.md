@@ -1,6 +1,6 @@
 # 💻 Mohammed Ismail Sarfaraz Shaik  
 
-📍 Washington, D.C. | ✉️ m.shaik@gwu.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/)(#) | 🖥️ [GitHub](#)  
+📍 Washington, D.C. | ✉️ m.shaik@gwu.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/) | 🖥️ [GitHub](https://github.com/Sarfarazzzzz)  
 
 ---
 
