@@ -8,7 +8,7 @@
 
 🔍 **Turning Data into Insights, and Insights into Impact!**  
 
-Hi there! I'm **Mohammed Ismail Sarfaraz Shaik**, a **Data Science Master's student** at **The George Washington University** with a passion for solving complex problems through **Machine Learning, Predictive Analytics, and Big Data Engineering**.  
+Hi there! I'm **Mohammed Ismail Sarfaraz Shaik**, a **Data Science Master's student** at **The George Washington University** with a passion for solving complex problems through **Data Insights and Visualizations, Predictive Analytics and  Machine Learning Modeling**.  
 
 With hands-on experience as a **Software Engineer & Data Analyst at TCS**, I've worked on **building scalable data pipelines, automating workflows, and uncovering meaningful insights** from large datasets. My expertise lies at the intersection of **AI, Data Science, and Cloud Technologies**, where I thrive on crafting **data-driven solutions that drive business impact**.  
 
