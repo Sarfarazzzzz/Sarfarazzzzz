@@ -23,8 +23,8 @@ I specialize in **"End-to-End" AI systems**. Whether optimizing cloud infrastruc
 |:--- |:--- |
 | **Languages** | Python, SQL, R, C/C++, SAS |
 | **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain, Hugging Face |
-| **Data Engineering** | AWS (EC2, S3), PySpark, Airflow, Jenkins, Docker, Snowflake, Databricks |
-| **Visualization** | Tableau, Power BI, Streamlit, Matplotlib |
+| **Data Engineering** | AWS (EC2, S3, SageMaker, Lambda), PySpark, Airflow, Jenkins, Docker, Snowflake, Databricks |
+| **Visualization** | Tableau, Power BI, Looker, Streamlit, Matplotlib |
 | **Concepts** | RAG, MLOps, A/B Testing, Statistical Modeling, CI/CD |
 
 ---
