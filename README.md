@@ -32,7 +32,7 @@ I specialize in **"End-to-End" AI systems**. Whether optimizing cloud infrastruc
 ## 💼 Professional Highlights
 
 **Data Analyst** | *George Washington University* (Mar 2025 - Present)
-- 💰 Identified **$1M+** in misallocated funding by designing Python anomaly detection scripts.
+- 💰 Identified **$2M+** in misallocated funding by designing Python anomaly detection scripts.
 - 📉 Built automated validation pipelines reducing data errors by **20%**.
 
 **Software Engineer** | *Tata Consultancy Services* (Jun 2023 - Jun 2024)
