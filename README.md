@@ -64,7 +64,7 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ## 🚀 Featured Projects
 
-### ☁️ [AWS CloudGuide — Cloud Architecture Assistant](AWS_CLOUDGUIDE_REPO_URL)
+### ☁️ [AWS CloudGuide — Cloud Architecture Assistant](https://github.com/Sarfarazzzzz/Final-Project-Group-BotBuilders)
 > Hybrid RAG system over 100k+ AWS technical pages
 
 - Engineered hybrid retrieval fusing **bge-m3 (dense)** + **BM25 (sparse)** via **Reciprocal Rank Fusion**, resolving semantic ambiguity across 100k+ pages
@@ -75,7 +75,7 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ---
 
-### 🚗 [EV Charging Station Placement Optimization](EV_REPO_URL)
+### 🚗 [EV Charging Station Placement Optimization](https://github.com/Sarfarazzzzz/Optimizing-EV-Charging-Station-Placement-Using-Data-Driven-Analysis)
 > Six-phase MILP optimization across 37k US census tracts
 
 - Processed **37,093 census tracts across 20 East Coast states** through a six-phase optimization pipeline
@@ -87,7 +87,7 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ---
 
-### 🎨 [Image Restoration & Colorization](IMAGE_RESTORATION_REPO_URL)
+### 🎨 [Image Restoration & Colorization](https://github.com/txjxs/Final-Project-Group3)
 > End-to-end Computer Vision pipeline on AWS EC2
 
 - Architected pipeline on AWS EC2 (T4 GPU) processing the **18GB COCO dataset (118k images)** with Mixed Precision Training
@@ -98,7 +98,7 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ---
 
-### 🏥 [Hospital Readmissions Prediction](READMISSIONS_REPO_URL)
+### 🏥 [Hospital Readmissions Prediction](https://github.com/Sarfarazzzzz/Predicting-Hospital-Readmissions)
 > ML pipeline predicting 30-day clinical readmissions
 
 - Trained Logistic Regression, Random Forest, and XGBoost on clinical & demographic features
@@ -109,7 +109,7 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ---
 
-### 🏏 [IPL Live Match Win Predictor](IPL_REPO_URL)
+### 🏏 [IPL Live Match Win Predictor](https://github.com/Sarfarazzzzz/IPL-Live-Match-Win-Predictor)
 > Real-time ball-by-ball win probability for IPL matches
 
 - Built **XGBoost** model on 500+ historical IPL matches with engineered features for live in-game state
@@ -120,7 +120,7 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ---
 
-### 🍎 [Food Desert Prediction — 🏆 3rd Place, DSA Datathon 2025](FOOD_DESERT_REPO_URL)
+### 🍎 [Food Desert Prediction — 🏆 3rd Place, DSA Datathon 2025](https://github.com/Sarfarazzzzz/DSA-Datathon-2025)
 > Ensemble ML for food insecurity prediction
 
 - Derived features from **10+ datasets** spanning socioeconomic, geographic, and accessibility indicators
