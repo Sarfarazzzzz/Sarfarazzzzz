@@ -17,11 +17,11 @@
 
 ## 🎯 About
 
-I came to data science from engineering — which taught me that systems either work in the real world or they don't. I build ML and GenAI systems that fall on the **"work" side of that line**.
+I came to data science from engineering, which taught me that systems either work in the real world or they don't. I build ML and GenAI systems that fall on the **"work" side of that line**.
 
-Recently completed my **M.S. in Data Science at The George Washington University**, while working as a Data Analyst at the Milken Institute School of Public Health. Prior: a year at **Tata Consultancy Services** building HIPAA-compliant clinical ML infrastructure for a Fortune 500 medical devices client — Medallion ETL pipelines, shadow-deployment validation, and feature engineering that contributed to lifting downstream model AUC from **0.76 → 0.84**.
+Recently completed my **M.S. in Data Science at The George Washington University**, while working as a Data Analyst at the Milken Institute School of Public Health. Prior: a year at **Tata Consultancy Services** building HIPAA-compliant clinical ML infrastructure for a Fortune 500 medical devices client, Medallion ETL pipelines, shadow-deployment validation, and feature engineering that contributed to lifting downstream model AUC from **0.76 → 0.84**.
 
-🎯 **Now open to full-time Data Scientist and ML Engineer roles** — happy to connect with anyone in data, ML, or AI.
+🎯 **Now open to full-time Data Scientist and ML Engineer roles**. Happy to connect with anyone in data, ML, or AI.
 
 ---
 
