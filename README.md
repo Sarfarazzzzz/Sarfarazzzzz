@@ -131,17 +131,6 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sarfarazzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarfarazzzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazzzzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 📫 Connect
 
 Always open to conversations on **production ML, GenAI applications, or data systems** — and to discussing roles where I can build them.
