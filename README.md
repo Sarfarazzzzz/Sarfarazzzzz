@@ -1,71 +1,149 @@
-# 💻 Mohammed Ismail Sarfaraz Shaik
+<div align="center">
 
-**Data Scientist | ML Engineer | Building Scalable Intelligence**
+# Mohammed Ismail Sarfaraz Shaik
 
-📍 **Washington, D.C.** | ✉️ [m.shaik@gwu.edu](mailto:m.shaik@gwu.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/) | 🖥️ [GitHub](https://github.com/Sarfarazzzzz)
+### Data Scientist · ML Engineer
+**Building production ML & GenAI systems end-to-end**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](PORTFOLIO_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shaik@gwu.edu)
 
-## 🚀 About Me
+📍 Washington, D.C.
 
-I am a **Data Scientist and Machine Learning Engineer** who operates at the intersection of statistical analysis and software engineering. I don’t just build models; I build the pipelines that feed them and the systems that deploy them.
-
-Currently pursuing my **M.S. in Data Science** at **The George Washington University**. Previously, I worked as a **Software Engineer at TCS**, designing scalable ETL pipelines and automating workflows for healthcare and finance clients.
-
-I specialize in **"End-to-End" AI systems**. Whether optimizing cloud infrastructure on AWS or fine-tuning Large Language Models for specific domains, I focus on engineering solutions that deliver long-term business value.
+</div>
 
 ---
 
-## 🛠 Technical Arsenal
+## 🎯 About
 
-| Domain | Tools & Technologies |
-|:--- |:--- |
-| **Languages** | Python, SQL, R, C/C++, SAS |
-| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain, Hugging Face |
-| **Data Engineering** | AWS (EC2, S3, SageMaker, Lambda), PySpark, Airflow, Jenkins, Docker, Snowflake, Databricks |
-| **Visualization** | Tableau, Power BI, Looker, Streamlit, Matplotlib |
-| **Concepts** | RAG, MLOps, A/B Testing, Statistical Modeling, CI/CD |
+I came to data science from engineering — which taught me that systems either work in the real world or they don't. I build ML and GenAI systems that fall on the **"work" side of that line**.
+
+Recently completed my **M.S. in Data Science at The George Washington University**, while working as a Data Analyst at the Milken Institute School of Public Health. Prior: a year at **Tata Consultancy Services** building HIPAA-compliant clinical ML infrastructure for a Fortune 500 medical devices client — Medallion ETL pipelines, shadow-deployment validation, and feature engineering that contributed to lifting downstream model AUC from **0.76 → 0.84**.
+
+🎯 **Now open to full-time Data Scientist and ML Engineer roles** — happy to connect with anyone in data, ML, or AI.
 
 ---
 
-## 💼 Professional Highlights
+## 🛠 Tech Stack
 
-**Data Analyst** | *George Washington University* (Mar 2025 - Present)
-- 💰 Identified **$2M+** in misallocated funding by designing Python anomaly detection scripts.
-- 📉 Built automated validation pipelines reducing data errors by **20%**.
+**Languages**
 
-**Software Engineer** | *Tata Consultancy Services* (Jun 2023 - Jun 2024)
-- ⚙️ Engineered ETL pipelines (**PySpark/Airflow**) for **50GB+** daily data, optimizing batch time by **30%** (4h → 2.8h).
-- 🔄 Engineered **CI/CD** pipelines (**Jenkins**) reducing deployment cycles by **30%**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data Engineering & Cloud**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Visualization & BI**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ [AWS CloudGuide - Cloud Architecture Assistant](LINK_TO_REPO_HERE)
-*A Hybrid RAG system fusing dense and sparse retrieval to answer AWS technical queries.*
-- **Architected** hybrid RAG using dense (**bge-m3**) and sparse (**BM25**) retrieval via RRF, resolving semantic ambiguity across **100k+** AWS pages.
-- **Deployed** LLM-powered Q&A system (**Qwen-2.5-7B**) via Hugging Face achieving **sub-200ms** latency for cited answers.
+### ☁️ [AWS CloudGuide — Cloud Architecture Assistant](AWS_CLOUDGUIDE_REPO_URL)
+> Hybrid RAG system over 100k+ AWS technical pages
 
-### 🎨 [Auto Image Restoration & Colorization](LINK_TO_REPO_HERE)
-*Deep Learning pipeline for restoring and colorizing images using Autoencoders.*
-- **Orchestrated** scalable **PyTorch** pipeline on **AWS EC2** processing **118k** COCO images using Mixed Precision.
-- **Pioneered** a ResNet-18 U-Net framework, achieving **85%** model compression and **0.496 SSIM**.
+- Engineered hybrid retrieval fusing **bge-m3 (dense)** + **BM25 (sparse)** via **Reciprocal Rank Fusion**, resolving semantic ambiguity across 100k+ pages
+- Deployed **Qwen-2.5-7B-Instruct** on T4 GPU with quantization tuning → **sub-200ms latency** for citation-backed answers
+- Built fault-tolerant ingestion pipeline: **640MB raw text → 800k+ vector embeddings** with recursive chunking for context preservation
 
-### 🏏 [IPL Live Match Win Predictor](LINK_TO_REPO_HERE)
-*Real-time win probability predictor for cricket matches.*
-- **Developed** a live, ball-by-ball win probability predictor using **XGBoost** trained on **500+** historical matches.
-- **Stabilized** early-game volatility by designing a confidence-weighted blend-in algorithm, reducing uncertainty by **60%**.
-
-### 🍎 [Food Desert Prediction (3rd Place Winner)](LINK_TO_REPO_HERE)
-*Predicting food insecurity using ensemble models.*
-- **Derived** features from **10+ datasets**; trained ensemble models (**Random Forest, CatBoost**) to predict at-risk census tracts with **88% accuracy**.
-- **Proposed** data-driven policy recommendations to prevent food desert formation.
+`Python` `LangChain` `Hugging Face` `PyTorch` `RAG` `Vector Databases`
 
 ---
 
-## 📫 Connect With Me
+### 🚗 [EV Charging Station Placement Optimization](EV_REPO_URL)
+> Six-phase MILP optimization across 37k US census tracts
 
-- 📧 **Email:** [m.shaik@gwu.edu](mailto:m.shaik@gwu.edu)
-- 🔗 **LinkedIn:** [Mohammed Ismail Sarfaraz Shaik](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/)
+- Processed **37,093 census tracts across 20 East Coast states** through a six-phase optimization pipeline
+- Formulated **two MILP models** (PuLP/CBC): commuter coverage maximization + hub minimization
+- Encoded federal **Justice40 mandate** as a hard constraint, lifting equity compliance from **12% → 41%** without sacrificing reach
+- Shipped **Streamlit + Folium** dashboard for planners to explore budget/equity tradeoffs live
+
+`Python` `GeoPandas` `Linear Programming` `Streamlit` `Folium`
+
+---
+
+### 🎨 [Image Restoration & Colorization](IMAGE_RESTORATION_REPO_URL)
+> End-to-end Computer Vision pipeline on AWS EC2
+
+- Architected pipeline on AWS EC2 (T4 GPU) processing the **18GB COCO dataset (118k images)** with Mixed Precision Training
+- Developed multi-subsystem framework: **ResNet-18 U-Net** (colorization) + **Depthwise Separable U-Net** (denoising)
+- Achieved **85% model compression**, **2.5× faster convergence**, and final **25 dB PSNR / 0.496 SSIM** via Transfer Learning + Curriculum Learning
+
+`PyTorch` `Computer Vision` `Deep Learning` `AWS EC2` `Transfer Learning`
+
+---
+
+### 🏥 [Hospital Readmissions Prediction](READMISSIONS_REPO_URL)
+> ML pipeline predicting 30-day clinical readmissions
+
+- Trained Logistic Regression, Random Forest, and XGBoost on clinical & demographic features
+- Best result: **Random Forest (F1: 64.1%, AUC: 0.742)** — identifying lab procedures, medications, and stay duration as top predictors
+- Handled class imbalance via weighting; performed full EDA, feature engineering, and hyperparameter tuning
+
+`Python` `XGBoost` `Random Forest` `Healthcare Analytics` `Classification`
+
+---
+
+### 🏏 [IPL Live Match Win Predictor](IPL_REPO_URL)
+> Real-time ball-by-ball win probability for IPL matches
+
+- Built **XGBoost** model on 500+ historical IPL matches with engineered features for live in-game state
+- Designed **confidence-weighted blend-in algorithm** stabilizing early-over volatility, reducing forecast uncertainty by **60%**
+- Deployed **Streamlit web app** for live predictions and probability visualization
+
+`Python` `XGBoost` `Streamlit` `Feature Engineering` `Predictive Modeling`
+
+---
+
+### 🍎 [Food Desert Prediction — 🏆 3rd Place, DSA Datathon 2025](FOOD_DESERT_REPO_URL)
+> Ensemble ML for food insecurity prediction
+
+- Derived features from **10+ datasets** spanning socioeconomic, geographic, and accessibility indicators
+- Trained ensemble models (**Random Forest, CatBoost**) achieving **88% accuracy** identifying at-risk census tracts
+- Proposed data-driven policy recommendations to prevent food desert formation
+
+`Python` `Random Forest` `CatBoost` `Ensemble Methods` `Geospatial Analysis`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sarfarazzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarfarazzzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazzzzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 📫 Connect
+
+Always open to conversations on **production ML, GenAI applications, or data systems** — and to discussing roles where I can build them.
+
+📧 [m.shaik@gwu.edu](mailto:m.shaik@gwu.edu) · 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/) · 🌐 [Portfolio](PORTFOLIO_URL_HERE)
