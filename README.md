@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](PORTFOLIO_URL_HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shaik@gwu.edu)
 
-📍 Washington, D.C.
+📍 United States.
 
 </div>
 
