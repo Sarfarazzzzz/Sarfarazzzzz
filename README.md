@@ -6,7 +6,7 @@
 **Building production ML & GenAI systems end-to-end**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](PORTFOLIO_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarfarazzzzz.github.io/Sarfaraz.github.io/#projects)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shaik@gwu.edu)
 
 📍 United States.
@@ -135,4 +135,4 @@ Recently completed my **M.S. in Data Science at The George Washington University
 
 Always open to conversations on **production ML, GenAI applications, or data systems** — and to discussing roles where I can build them.
 
-📧 [m.shaik@gwu.edu](mailto:m.shaik@gwu.edu) · 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/) · 🌐 [Portfolio](PORTFOLIO_URL_HERE)
+📧 [m.shaik@gwu.edu](mailto:m.shaik@gwu.edu) · 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ismail-sarfaraz-shaik-87886b20a/) · 🌐 [Portfolio]([PORTFOLIO_URL_HERE](https://sarfarazzzzz.github.io/Sarfaraz.github.io/#projects))
